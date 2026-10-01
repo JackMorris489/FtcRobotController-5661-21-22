@@ -1,0 +1,15 @@
+target
+
+.classpath
+
+.project
+.metadata
+.settings
+/bin/
+/release/
+/gen/
+tmp/
+
+*.mse
+
+/.DS_Store
